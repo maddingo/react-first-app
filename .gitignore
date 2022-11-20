@@ -26,3 +26,6 @@ yarn-error.log*
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+# playwright demo scenario, added by npm init playwright@latest
+/tests-examples/
