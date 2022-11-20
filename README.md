@@ -19,6 +19,14 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npx playwright test`
+Run End to End tests with Playwright.
+Playwright was added to the project with `npm init playwright@latest`. 
+See https://playwright.dev/docs/intro for more info.
+
+### `npx playwright codegen http://localhost:3000`
+Record a test
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
